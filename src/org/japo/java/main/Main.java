@@ -19,12 +19,11 @@ package org.japo.java.main;
  *
  * @author Sebastian Najarro Heredia - sebastian.najarro.alum@iescamp.es
  */
+public class Main {
 
-    public class Main {
     public static void main(String[] args) {
-         System.out.printf ("¡Hola Mundo!");
-        
+        System.out.printf("¡Hola Mundo!");
+
     }
-   
-    
+
 }
